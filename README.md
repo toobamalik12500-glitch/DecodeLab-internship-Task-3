@@ -1,4 +1,4 @@
-```markdown
+
 # SQL Data Analysis Queries
 
 ##  Project Overview
